@@ -43,7 +43,7 @@
         android:layout_alignParentTop="true"
         android:layout_alignStart="@+id/textView6"
         android:layout_marginTop="239dp"
-        android:text="*Check the cloud platform to get password"
+        android:text="*Check the cloud platform to know the password"
         android:textColor="@android:color/holo_red_dark" />
 
     <Button
